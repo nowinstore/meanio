@@ -49,7 +49,7 @@
     "glob": "^7.1.1",
     "lazy-dependable": "latest",
     "lodash": "^4.16.6",
-    "mean-cli": "latest",
+    "mean-cli": "kwakuzigah/mean-cli",
     "mean-health": "~0.1.3",
     "q": "^1.0.1",
     "raygun": "^0.9.0",
